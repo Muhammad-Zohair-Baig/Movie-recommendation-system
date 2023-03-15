@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Movie Recommendation System</title>
-  </head>
   <body>
     <h1>Movie Recommendation System</h1>
     <p>The main goal of this project was to make a recommendation system using a provided data set. The data set consisted of various features like duration, title, language, information about the cast, producer, and budget, etc. The first step was to identify the relevant features, for example, the budget of a movie may not be important to the viewer's interests, but the cast and production may have an impact on whether they would like to watch the movie or not.
